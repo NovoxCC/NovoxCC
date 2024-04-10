@@ -69,20 +69,36 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novoxcc&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=novoxcc&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=novoxcc&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=novoxcc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=novoxcc&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
 
-<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novoxcc&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</div>
 
-<br />
+</p>        
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novoxcc&theme=dark" alt="GitHub Streak" />
-</div>
-
+<br/> <br/>  <br/>  
 
