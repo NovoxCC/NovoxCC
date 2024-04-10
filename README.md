@@ -16,7 +16,10 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 - 🔭 I’m currently working on [POS_CINEMA](https://github.com/NovoxCC/POS_CINEMA)  
   
@@ -29,15 +32,6 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
