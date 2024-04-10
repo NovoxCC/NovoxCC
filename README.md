@@ -1,5 +1,3 @@
-![]()  
-  
 
 ## Hey 👋, I'm Camilo Moreno!   
   
@@ -64,6 +62,7 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"></a>
+  <a href="https://openjfx.io/" target="_blank"><img src="https://img.shields.io/badge/JavaFX-%23FF4081.svg?style=for-the-badge&amp;logo=javafx&amp;logoColor=white" alt="JavaFX"></a>
 </div>
 
 <br/>  
