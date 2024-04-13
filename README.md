@@ -81,7 +81,7 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 </tr>
 </table>
 
-
+<br/> 
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -93,5 +93,5 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 
 </p>        
 
-<br/> <br/>  <br/>  
+<br/>   
 
