@@ -17,20 +17,28 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 
 ## Rapidfire  
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+
+<table style="width:100%">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/NovoxCC/POS_CINEMA">POS_CINEMA</a></li>
+        <li>🌱 I’m currently learning GCP and AWS</li>
+        <li>📫 How to reach me <i>camlo_1250@hotmail.com</i></li>
+        <li>⚡ Fun fact: I keep night shift switched on at all times</li>
+      </ul>
+    </td>
+    <td style="width:50%; text-align:center;">
+      <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+    </td>
+  </tr>
+</table>
+
+
 
 <br>
 
-- 🔭 I’m currently working on [POS_CINEMA](https://github.com/NovoxCC/POS_CINEMA)  
-  
 
-- 🌱 I’m currently learning GCP and AWS  
-  
-
-- 📫 How to reach me *camlo_1250@hotmail.com*  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 <br/> <br/> 
 
@@ -63,7 +71,6 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
 ## GitHub Stats
 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -73,7 +80,7 @@ Beyond the classroom, I'm eager to explore emerging technologies and their poten
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=novoxcc&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+  <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=novoxcc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
